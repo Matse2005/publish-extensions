@@ -625,6 +625,9 @@
       "vsce package -o extension.vsix"
     ]
   },
+  "matse2005.vscristmas-extension" : {
+    "repository": "https://github.com/Matse2005/VSChristmas-Extension"
+  },
   "matepek.vscode-catch2-test-adapter": {
     "repository": "https://github.com/matepek/vscode-catch2-test-adapter"
   },
